@@ -1,0 +1,4 @@
+/mongo/data/*
+!/mongo/data/.gitkeep
+/node-red/data/*
+!/node-red/data/flows.json
